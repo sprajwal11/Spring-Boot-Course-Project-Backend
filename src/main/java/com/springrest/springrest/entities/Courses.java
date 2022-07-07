@@ -19,7 +19,7 @@ public class Courses {
     public String toString() {
         return "Courses{" +
                 "id=" + id +
-                ", title='" + title + '\'' +
+                ", title='" + title +'\'' +
                 ", description='" + description + '\'' +
                 '}';
     }
